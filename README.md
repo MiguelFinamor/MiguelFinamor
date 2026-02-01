@@ -60,21 +60,27 @@ Me chamo Miguel Soares Finamor, tenho 19 anos e sou de Minas Gerais. Atualmente,
 
 <br/>
 <br/>
-### 📊 Estatísticas
+<h3 align="left">🤖 Linguagens e Tecnologias</h3>
 
-<p>
-  <img 
-    align="left" 
-    alt="Estatísticas do GitHub" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MiguelFinamor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFinamor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
+<br/>
+
+<h3 align="left">📊 Estatísticas</h3>
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px;">
+  <a href="https://github.com/MiguelFinamor">
+    <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=MiguelFinamor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do Miguel" />
+  </a>
+  <a href="https://github.com/MiguelFinamor">
+    <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFinamor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Linguagens mais usadas" />
+  </a>
+</div>
+
+<br clear="both">
