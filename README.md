@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software em Formação`**
 
-Me chamo Miguel Soares Finamor, tenho 19 anos e sou de Minas Gerais. Atualmente, estou cursando Ciência da Computação na UPM (Mackenzie). Tenho muito interesse na área da tecnologia e desejo me tornar um Desenvolvedor de Software. Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos e iniciar minha carreira na área o mais rápido possível.
+Me chamo Miguel Soares Finamor, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Ciência da Computação na UPM (Mackenzie). Tenho muito interesse na área da tecnologia e desejo me tornar um Desenvolvedor de Software. Estou em busca de uma oportunidade de estágio para aplicar meus conhecimentos e iniciar minha carreira na área o mais rápido possível.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/miguel-finamor-5829b629a" target="_blank">
@@ -28,15 +28,3 @@ Me chamo Miguel Soares Finamor, tenho 19 anos e sou de Minas Gerais. Atualmente,
 
 <br/>
 
-<h3 align="left">📊 Estatísticas</h3>
-
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px;">
-  <a href="https://github.com/MiguelFinamor">
-    <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=MiguelFinamor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do Miguel" />
-  </a>
-  <a href="https://github.com/MiguelFinamor">
-    <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFinamor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Linguagens mais usadas" />
-  </a>
-</div>
-
-<br clear="both">
